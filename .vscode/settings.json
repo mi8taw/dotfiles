@@ -9,7 +9,4 @@
   "[go]": {
     "editor.defaultFormatter": "golang.go",
   },
-  "[php]": {
-    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client",
-  },
 }
